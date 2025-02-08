@@ -1,0 +1,17 @@
+node script.mjs
+npm init
+npm start
+npm install express
+
+
+
+
+
+
+
+
+
+
+
+
+
